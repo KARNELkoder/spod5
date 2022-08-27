@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "06.06.2004"; // Дата рождения
-var fullname = "Слородюк Тімур Олегович" // ФИО
+var birthdate = "31.07.2001"; // Дата рождения
+var fullname = "Романюк Валерія Валеріївна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
